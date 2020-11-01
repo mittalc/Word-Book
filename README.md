@@ -1,8 +1,8 @@
 # Word-Book
 
-Libraries used - JSON , DIFFLIB
-wordbook file - dictionary.py
-modules - functions.py
+Libraries used - JSON , DIFFLIB | 
+wordbook file - dictionary.py | 
+modules - functions.py | 
 json dataset - data.json
 
 This is a program which uses a json dataset to pull meanings of the words.
